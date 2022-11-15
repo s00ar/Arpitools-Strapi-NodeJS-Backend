@@ -1,0 +1,22 @@
+{
+  "collectionName": "components_global_navigations",
+  "info": {
+    "displayName": "navigation"
+  },
+  "options": {},
+  "attributes": {
+    "theme": {
+      "type": "enumeration",
+      "enum": [
+        "light",
+        "dark"
+      ],
+      "default": "light"
+    },
+    "panels": {
+      "type": "component",
+      "repeatable": true,
+      "component": "global.navigation-panel"
+    }
+  }
+}

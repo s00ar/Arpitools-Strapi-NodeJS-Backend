@@ -4,4 +4,11 @@ module.exports = ({ env }) => ({
   app: {
     keys: env.array('APP_KEYS'),
   },
+  admin: {
+    autoOpen: false,
+    auth: {
+      secret: env('ADMIN_JWT_SECRET'),
+    },
+  }
+  // admin es una linea que agregué para evitar errores de autentificación
 });

@@ -1,0 +1,31 @@
+{
+  "collectionName": "components_shared_editos",
+  "info": {
+    "displayName": "edito",
+    "icon": "allergies"
+  },
+  "options": {},
+  "attributes": {
+    "label": {
+      "type": "string"
+    },
+    "title": {
+      "type": "string"
+    },
+    "text": {
+      "type": "richtext"
+    },
+    "theme": {
+      "type": "enumeration",
+      "enum": [
+        "white",
+        "grey"
+      ]
+    },
+    "button":{
+      "type": "component",
+      "repeatable": true,
+      "component": "shared.button"
+    }
+  }
+}

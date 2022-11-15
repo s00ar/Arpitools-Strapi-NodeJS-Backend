@@ -75,10 +75,6 @@
       "type": "text",
       "required": true
     },
-    "arpicode": {
-      "type": "biginteger",
-      "required": true
-    },
     "seller": {
       "type": "relation",
       "relation": "manyToOne",

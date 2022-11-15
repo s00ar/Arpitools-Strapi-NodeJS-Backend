@@ -57,6 +57,9 @@
     },
     "buyerId": {
       "type": "integer"
+    },
+    "receipt": {
+      "type": "string"
     }
   }
 }

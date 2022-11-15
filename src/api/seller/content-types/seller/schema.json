@@ -34,7 +34,9 @@
       "mappedBy": "seller"
     },
     "arpicode": {
-      "type": "biginteger"
+      "type": "biginteger",
+      "required": true,
+      "unique": true
     }
   }
 }
