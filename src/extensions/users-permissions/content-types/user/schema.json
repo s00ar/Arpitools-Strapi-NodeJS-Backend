@@ -90,6 +90,11 @@
     "fullname": {
       "type": "string",
       "required": true
+    },
+    "phone": {
+      "type": "biginteger",
+      "required": true,
+      "unique": false
     }
   }
 }

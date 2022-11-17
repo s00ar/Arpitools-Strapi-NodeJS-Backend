@@ -12,6 +12,7 @@
   "dependencies": {
     "@strapi/plugin-i18n": "4.4.3",
     "@strapi/plugin-users-permissions": "4.4.3",
+    "@strapi/provider-email-sendgrid": "^4.5.1",
     "@strapi/strapi": "4.4.3",
     "mysql": "2.18.1",
     "pg": "^8.8.0",

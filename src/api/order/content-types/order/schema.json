@@ -59,7 +59,8 @@
       "type": "integer"
     },
     "receipt": {
-      "type": "string"
+      "type": "string",
+      "required": true
     }
   }
 }
