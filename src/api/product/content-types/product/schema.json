@@ -71,6 +71,9 @@
         "videos",
         "audios"
       ]
+    },
+    "unit": {
+      "type": "string"
     }
   }
 }
