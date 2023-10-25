@@ -1,57 +1,31 @@
-# 🚀 Getting started with Strapi
+# Arpitools Strapi NodeJS Backend
 
-Strapi comes with a full featured [Command Line Interface](https://docs.strapi.io/developer-docs/latest/developer-resources/cli/CLI.html) (CLI) which lets you scaffold and manage your project in seconds.
+Welcome to the Arpitools Strapi NodeJS Backend repository!
 
-### `develop`
+## Description
 
-Start your Strapi application with autoReload enabled. [Learn more](https://docs.strapi.io/developer-docs/latest/developer-resources/cli/CLI.html#strapi-develop)
+This repository contains the NodeJS backend that powers the report web app of the Arpitools mobile application. It is a crucial component of the Arpitools ecosystem, facilitating the generation and management of reports.
 
-```
-npm run develop
-# or
-yarn develop
-```
+## Key Features
 
-### `start`
+- **Backend**: This is the backend server, which handles the report generation and data management for the Arpitools mobile app.
+- **Status**: The backend is up and running, and it's published and available for use.
 
-Start your Strapi application with autoReload disabled. [Learn more](https://docs.strapi.io/developer-docs/latest/developer-resources/cli/CLI.html#strapi-start)
+## Team
 
-```
-npm run start
-# or
-yarn start
-```
+- **Team Leader:** Santiago Leston
+- **Developers:** Ebraheemijaz, Federico Ponce, Santiago Leston, Safdar Sikander, Khawarios
+- **DevOps Specialist:** Rabia Saleem
+- **UX/UI Specialist:** Elizabeth Taranto
 
-### `build`
+## Usage
 
-Build your admin panel. [Learn more](https://docs.strapi.io/developer-docs/latest/developer-resources/cli/CLI.html#strapi-build)
+To interact with this backend, refer to the API documentation at [https://www.arpitoolsbackendapi.com/docs](https://www.arpitoolsbackendapi.com/docs).
 
-```
-npm run build
-# or
-yarn build
-```
+## Contact
 
-## ⚙️ Deployment
+For inquiries, contact our team at [support@arpitoolsbackendapi.com](mailto:support@arpitoolsbackendapi.com).
 
-Strapi gives you many possible deployment options for your project. Find the one that suits you on the [deployment section of the documentation](https://docs.strapi.io/developer-docs/latest/setup-deployment-guides/deployment.html).
+We appreciate your interest in the Arpitools Strapi NodeJS Backend!
 
-## 📚 Learn more
-
-- [Resource center](https://strapi.io/resource-center) - Strapi resource center.
-- [Strapi documentation](https://docs.strapi.io) - Official Strapi documentation.
-- [Strapi tutorials](https://strapi.io/tutorials) - List of tutorials made by the core team and the community.
-- [Strapi blog](https://docs.strapi.io) - Official Strapi blog containing articles made by the Strapi team and the community.
-- [Changelog](https://strapi.io/changelog) - Find out about the Strapi product updates, new features and general improvements.
-
-Feel free to check out the [Strapi GitHub repository](https://github.com/strapi/strapi). Your feedback and contributions are welcome!
-
-## ✨ Community
-
-- [Discord](https://discord.strapi.io) - Come chat with the Strapi community including the core team.
-- [Forum](https://forum.strapi.io/) - Place to discuss, ask questions and find answers, show your Strapi project and get feedback or just talk with other Community members.
-- [Awesome Strapi](https://github.com/strapi/awesome-strapi) - A curated list of awesome things related to Strapi.
-
----
-
-<sub>🤫 Psst! [Strapi is hiring](https://strapi.io/careers).</sub>
+🚀 Empowering the Arpitools ecosystem with efficient backend services! 🚀
